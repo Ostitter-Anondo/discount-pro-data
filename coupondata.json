@@ -4,7 +4,7 @@
     "brand_name": "TechSavvy",
     "rating": 4.7,
     "description": "Leading provider of top-notch tech gadgets and accessories.",
-    "brand_logo": "https://example.com/logos/techsavvy.png",
+    "brand_logo": "https://i.ibb.co.com/gPdGCBW/gadget.png",
     "coupons": [
       {
         "coupon_code": "TECH10",
@@ -51,14 +51,14 @@
     ],
     "shop-Link": "https://techsavvy.com",
     "category": "Electronics",
-    "isSaleOn": true
+    "isSaleOn": false
   },
   {
     "_id": "2",
     "brand_name": "StyleHive",
     "rating": 4.5,
     "description": "Your one-stop shop for trendy and affordable fashion.",
-    "brand_logo": "https://example.com/logos/stylehive.png",
+    "brand_logo": "https://i.ibb.co.com/X2cGbXc/fashion.png",
     "coupons": [
       {
         "coupon_code": "STYLE20",
@@ -112,7 +112,7 @@
     "brand_name": "GreenGrocer",
     "rating": 4.8,
     "description": "Fresh, organic produce delivered to your doorstep.",
-    "brand_logo": "https://example.com/logos/greengrocer.png",
+    "brand_logo": "https://i.ibb.co.com/6vVccxZ/grocery.png",
     "coupons": [
       {
         "coupon_code": "ORGANIC10",
@@ -166,7 +166,7 @@
     "brand_name": "FitnessPro",
     "rating": 4.6,
     "description": "Top-quality fitness gear and equipment for every athlete.",
-    "brand_logo": "https://example.com/logos/fitnesspro.png",
+    "brand_logo": "https://i.ibb.co.com/2vm1Rjg/fitness.png",
     "coupons": [
       {
         "coupon_code": "FIT20",
@@ -213,14 +213,14 @@
     ],
     "shop-Link": "https://fitnesspro.com",
     "category": "Fitness",
-    "isSaleOn": true
+    "isSaleOn": false
   },
   {
     "_id": "5",
     "brand_name": "BookNest",
     "rating": 4.9,
     "description": "Explore a vast collection of books for all ages and genres.",
-    "brand_logo": "https://example.com/logos/booknest.png",
+    "brand_logo": "https://i.ibb.co.com/9b0WsYk/books.png",
     "coupons": [
       {
         "coupon_code": "BOOK10",
@@ -267,14 +267,14 @@
     ],
     "shop-Link": "https://booknest.com",
     "category": "Books",
-    "isSaleOn": true
+    "isSaleOn": false
   },
   {
     "_id": "6",
     "brand_name": "GourmetGrub",
     "rating": 4.4,
     "description": "Premium gourmet food and delicacies from around the world.",
-    "brand_logo": "https://example.com/logos/gourmetgrub.png",
+    "brand_logo": "https://i.ibb.co.com/LhpnYcS/gourmet.png",
     "coupons": [
       {
         "coupon_code": "GOURMET15",
@@ -321,6 +321,6 @@
     ],
     "shop-Link": "https://gourmetgrub.com",
     "category": "Food",
-    "isSaleOn": true
+    "isSaleOn": false
   }
 ]

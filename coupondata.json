@@ -1,0 +1,326 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "TechSavvy",
+    "rating": 4.7,
+    "description": "Leading provider of top-notch tech gadgets and accessories.",
+    "brand_logo": "https://example.com/logos/techsavvy.png",
+    "coupons": [
+      {
+        "coupon_code": "TECH10",
+        "description": "10% off on all electronics.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $50.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on orders over $30.",
+        "expiry_date": "2024-11-30",
+        "condition": "Valid for standard shipping only.",
+        "coupon_type": "Free Shipping"
+      },
+      {
+        "coupon_code": "NEWYEAR15",
+        "description": "15% off for New Year.",
+        "expiry_date": "2025-01-10",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "BUNDLE20",
+        "description": "20% off on bundle purchases.",
+        "expiry_date": "2024-12-15",
+        "condition": "Purchase two or more items.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "GADGETS25",
+        "description": "25% off on gadgets.",
+        "expiry_date": "2024-11-30",
+        "condition": "Valid for selected items only.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "VIP5",
+        "description": "Extra 5% off for VIP members.",
+        "expiry_date": "2024-12-31",
+        "condition": "Membership required.",
+        "coupon_type": "Membership"
+      }
+    ],
+    "shop-Link": "https://techsavvy.com",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2",
+    "brand_name": "StyleHive",
+    "rating": 4.5,
+    "description": "Your one-stop shop for trendy and affordable fashion.",
+    "brand_logo": "https://example.com/logos/stylehive.png",
+    "coupons": [
+      {
+        "coupon_code": "STYLE20",
+        "description": "20% off on your first purchase.",
+        "expiry_date": "2024-12-31",
+        "condition": "New users only.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "BLACKFRIDAY30",
+        "description": "30% off for Black Friday.",
+        "expiry_date": "2024-11-29",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "FREERETURNS",
+        "description": "Free returns on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for orders under $200.",
+        "coupon_type": "Free Returns"
+      },
+      {
+        "coupon_code": "BOGO50",
+        "description": "Buy one, get one 50% off.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for same-category items only.",
+        "coupon_type": "BOGO"
+      },
+      {
+        "coupon_code": "HOLIDAY15",
+        "description": "15% off during the holiday season.",
+        "expiry_date": "2025-01-05",
+        "condition": "Applies to all categories.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "VIPACCESS",
+        "description": "Early access to sales for VIP members.",
+        "expiry_date": "2024-12-31",
+        "condition": "Membership required.",
+        "coupon_type": "Membership"
+      }
+    ],
+    "shop-Link": "https://stylehive.com",
+    "category": "Fashion",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3",
+    "brand_name": "GreenGrocer",
+    "rating": 4.8,
+    "description": "Fresh, organic produce delivered to your doorstep.",
+    "brand_logo": "https://example.com/logos/greengrocer.png",
+    "coupons": [
+      {
+        "coupon_code": "ORGANIC10",
+        "description": "10% off on organic produce.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $40.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIPFOOD",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-11-30",
+        "condition": "Valid for local delivery only.",
+        "coupon_type": "Free Shipping"
+      },
+      {
+        "coupon_code": "FRESH15",
+        "description": "15% off on fresh produce.",
+        "expiry_date": "2024-12-20",
+        "condition": "Applies to all fruits and vegetables.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "BULKBUY5",
+        "description": "5% off on bulk purchases.",
+        "expiry_date": "2024-12-31",
+        "condition": "Purchase over $100.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "HOLIDAYGREENS",
+        "description": "20% off during holiday season.",
+        "expiry_date": "2025-01-01",
+        "condition": "Valid for selected items.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "REWARD10",
+        "description": "10% cashback in rewards points.",
+        "expiry_date": "2024-12-31",
+        "condition": "Account sign-up required.",
+        "coupon_type": "Rewards"
+      }
+    ],
+    "shop-Link": "https://greengrocer.com",
+    "category": "Groceries",
+    "isSaleOn": true
+  },
+  {
+    "_id": "4",
+    "brand_name": "FitnessPro",
+    "rating": 4.6,
+    "description": "Top-quality fitness gear and equipment for every athlete.",
+    "brand_logo": "https://example.com/logos/fitnesspro.png",
+    "coupons": [
+      {
+        "coupon_code": "FIT20",
+        "description": "20% off on all fitness gear.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "GYMFREE",
+        "description": "Free shipping on gym equipment.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for orders above $50.",
+        "coupon_type": "Free Shipping"
+      },
+      {
+        "coupon_code": "NEWGEAR",
+        "description": "10% off on new arrivals.",
+        "expiry_date": "2024-11-30",
+        "condition": "Applies to select items only.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "HOLIDAYFIT",
+        "description": "25% off during holiday sales.",
+        "expiry_date": "2025-01-01",
+        "condition": "No exclusions.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "REWARDS15",
+        "description": "15% cashback in rewards points.",
+        "expiry_date": "2024-12-31",
+        "condition": "Membership required.",
+        "coupon_type": "Rewards"
+      },
+      {
+        "coupon_code": "BUNDLEDEAL",
+        "description": "Buy two, get 15% off on third item.",
+        "expiry_date": "2024-12-31",
+        "condition": "Applies to all categories.",
+        "coupon_type": "BOGO"
+      }
+    ],
+    "shop-Link": "https://fitnesspro.com",
+    "category": "Fitness",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5",
+    "brand_name": "BookNest",
+    "rating": 4.9,
+    "description": "Explore a vast collection of books for all ages and genres.",
+    "brand_logo": "https://example.com/logos/booknest.png",
+    "coupons": [
+      {
+        "coupon_code": "BOOK10",
+        "description": "10% off on your first book.",
+        "expiry_date": "2024-12-31",
+        "condition": "New customers only.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "BULKBOOKS",
+        "description": "5% off on bulk orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $100.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIPBOOK",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-15",
+                "condition": "No minimum purchase required.",
+        "coupon_type": "Free Shipping"
+      },
+      {
+        "coupon_code": "HOLIDAYREAD",
+        "description": "20% off on holiday-themed books.",
+        "expiry_date": "2025-01-01",
+        "condition": "Valid for selected titles only.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "READMORE",
+        "description": "15% off when you buy 3 or more books.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on all books.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "LOYALTY20",
+        "description": "20% off for loyalty members.",
+        "expiry_date": "2024-12-31",
+        "condition": "Membership required.",
+        "coupon_type": "Membership"
+      }
+    ],
+    "shop-Link": "https://booknest.com",
+    "category": "Books",
+    "isSaleOn": true
+  },
+  {
+    "_id": "6",
+    "brand_name": "GourmetGrub",
+    "rating": 4.4,
+    "description": "Premium gourmet food and delicacies from around the world.",
+    "brand_logo": "https://example.com/logos/gourmetgrub.png",
+    "coupons": [
+      {
+        "coupon_code": "GOURMET15",
+        "description": "15% off on all gourmet products.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $50.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIPPINGGG",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for orders over $30.",
+        "coupon_type": "Free Shipping"
+      },
+      {
+        "coupon_code": "HOLIDAYFEAST",
+        "description": "20% off holiday gift baskets.",
+        "expiry_date": "2025-01-01",
+        "condition": "While supplies last.",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "BULKBUY10",
+        "description": "10% off on bulk purchases.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $100.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "LOYALGRUB",
+        "description": "Extra 5% off for loyalty members.",
+        "expiry_date": "2024-12-31",
+        "condition": "Membership required.",
+        "coupon_type": "Membership"
+      },
+      {
+        "coupon_code": "NEWFLAVORS",
+        "description": "10% off on new arrivals.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on select items only.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://gourmetgrub.com",
+    "category": "Food",
+    "isSaleOn": true
+  }
+]

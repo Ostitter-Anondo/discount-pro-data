@@ -49,7 +49,7 @@
         "coupon_type": "Membership"
       }
     ],
-    "shop-Link": "https://techsavvy.com",
+    "shop_link": "https://www.example.com/techsavvy.com",
     "category": "Electronics",
     "isSaleOn": false
   },
@@ -103,7 +103,7 @@
         "coupon_type": "Membership"
       }
     ],
-    "shop-Link": "https://stylehive.com",
+    "shop_link": "https://www.example.com/stylehive.com",
     "category": "Fashion",
     "isSaleOn": true
   },
@@ -157,7 +157,7 @@
         "coupon_type": "Rewards"
       }
     ],
-    "shop-Link": "https://greengrocer.com",
+    "shop_link": "https://www.example.com/greengrocer.com",
     "category": "Groceries",
     "isSaleOn": true
   },
@@ -211,7 +211,7 @@
         "coupon_type": "BOGO"
       }
     ],
-    "shop-Link": "https://fitnesspro.com",
+    "shop_link": "https://www.example.com/fitnesspro.com",
     "category": "Fitness",
     "isSaleOn": false
   },
@@ -265,7 +265,7 @@
         "coupon_type": "Membership"
       }
     ],
-    "shop-Link": "https://booknest.com",
+    "shop_link": "https://www.example.com/booknest.com",
     "category": "Books",
     "isSaleOn": false
   },
@@ -319,7 +319,7 @@
         "coupon_type": "Discount"
       }
     ],
-    "shop-Link": "https://gourmetgrub.com",
+    "shop_link": "https://www.example.com/gourmetgrub.com",
     "category": "Food",
     "isSaleOn": false
   }
